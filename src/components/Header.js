@@ -17,7 +17,7 @@ const Header = () => {
      </div>
 
      <div className='header_right'>
-         <p>Trouver votre hôtel</p>
+         <p>Trouvez votre hôtel</p>
 
      </div>
         </div>
